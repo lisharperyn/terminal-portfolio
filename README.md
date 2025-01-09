@@ -21,7 +21,7 @@ As seguintes tecnologias foram usadas para construir este portfólio:
 - JavaScript  
 
 ## Contribuindo  
-Se você gostaria de contribuir para este projeto, pode fazê-lo bifurcando o repositório e realizando suas alterações. Depois de fazer as mudanças, envie uma pull request, e o mantenedor do projeto revisará suas contribuições.  
+Se você gostaria de contribuir para este projeto, pode fazê-lo bifurcando o repositório e realizando suas alterações. Depois de fazer as mudanças, envie uma pull request, eu irei revisar suas contribuições.  
 
 ## Agradecimentos  
 Este portfólio foi inspirado na interface de linha de comando e tem como objetivo oferecer uma maneira única de apresentar as habilidades de um desenvolvedor de software. Agradecimentos especiais aos desenvolvedores que contribuíram para o projeto.
