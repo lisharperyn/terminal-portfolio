@@ -22,3 +22,6 @@ As seguintes tecnologias foram usadas para construir este portfólio:
   
 ## Agradecimentos  
 Este portfólio foi inspirado na interface de linha de comando e tem como objetivo oferecer uma maneira única de apresentar as habilidades de um desenvolvedor de software. Agradecimentos especiais aos desenvolvedores que contribuíram para o projeto.
+
+## Créditos
+   juli32bit
