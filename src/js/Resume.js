@@ -139,7 +139,7 @@ export class Resume{
                 </strong>
                 <ul>
                     <li>Demonstrar habilidades em <strong>backend e integração com base de dados</strong></li>
-                    <li>Demonstrar capacidade de <strong>manipulação de binários</strong></li>
+                    <li>Exemplificar capacidade de <strong>manipulação de binários</strong></li>
                 </ul>
             </div>
         </div>`;
@@ -151,11 +151,12 @@ export class Resume{
                 <h2>HABILIDADES TÉCNICAS</h2><hr>
             </div>
             <ul>
-                <li><strong>Linguagens :</strong>  C, HTML, CSS, Python(Basic), JavaScript(Basic)</li>
-                <li><strong>Frameworks :</strong> React</li>
-                <li><strong>Banco de dados :</strong> MySQL, Oracle Database</li>
-                <li><strong>Ferramentas :</strong> Git, GitHub </li>
-                <li><strong>Sistemas Operacionais :</strong> Windows, Linux</li>
+                <li><strong>Linguagens :</strong> JAVA, HTML, CSS, JavaScript(Basic), Python(Basic) </li>
+                <li><strong>Frameworks :</strong> Spring, Bootstrap, Angular(Learning), Flask(Basic) </li>
+                <li><strong>Banco de dados :</strong> MySQL, Workbench, MariaDB, MySQL-Front </li>
+                <li><strong>Ferramentas :</strong> Git, GitHub, Power Bi (DAX, M), Excel </li>
+                <li><strong>Sistemas Operacionais :</strong> Windows </li>
+                <li><strong>Idiomas :</strong> Inglês, Espanhol, Catalão </li>
             </ul>
         </div>`;
     }
@@ -167,12 +168,20 @@ export class Resume{
             </div>
             <ul>
                 <li>
-                    Foundations of Cybersecurity,  Janeiro 2025.
-                    <a href="https://coursera.org/share/3fb478b35ecc5c7e47601a0d2f9a1a40" target="_blank">[Certificado]</a>
+                    JAVA Developer Professional Certificate - SENAI,  July 2023.
+                    <a href="https://www.linkedin.com/in/steffani-amorim-b541791b7/details/certifications/" target="_blank">[Certificado]</a>
                 </li>
                 <li>
-                   C1 English (Avançado, proficiente), Dezembro 2025.
-                    <a href="https://cert.efset.org/en/dyGAgA" target="_blank">[Certificado]</a>
+                    Python Essentials 1 - CISCO, May 2023.
+                    <a href="https://www.linkedin.com/in/steffani-amorim-b541791b7/details/certifications/" target="_blank">[Certificado]</a>
+                </li>
+                <li>
+                    Application of Power BI for Management Improvement - Enap, April 2024.
+                    <a href="https://www.linkedin.com/in/steffani-amorim-b541791b7/details/certifications/" target="_blank">[Certificado]</a>
+                </li>
+                <li>
+                    What is Data Science - Coursera (IBM), November 2021.
+                    <a href="https://www.linkedin.com/in/steffani-amorim-b541791b7/details/certifications/" target="_blank">[Certificado]</a>
                 </li>
             </ul>
         </div>`;
@@ -187,6 +196,7 @@ export class Resume{
         ${this.getAchievementsAndCertifications()}
         `;
     }
+
     displayResume(){
         new UniversalFunction().updateElement("div", "output resume", this.toString());
         new UniversalFunction().updateElement("div", "output", 

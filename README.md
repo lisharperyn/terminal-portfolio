@@ -1,28 +1,52 @@
-# Terminal-Portfolio  
-Este é um portfólio de desenvolvedor de software com aparência de terminal, projetado para destacar habilidades. O projeto está hospedado no GitHub e permite aos usuários navegar por diferentes seções para acessar informações sobre os projetos, habilidades e experiências do desenvolvedor.  
+# 🖥️ terminal-portfolio
 
-## Introdução  
-Para usar este portfólio, você precisará ter um conhecimento básico da interface de linha de comando. É possível acessá-lo clonando ou baixando o repositório e abrindo o arquivo `index.html` no seu navegador preferido.  
+O **terminal-portfolio** é um portfólio com visual inspirado na linha de comando, projetado para apresentar habilidades, projetos e experiências de desenvolvedores de maneira única e interativa. O projeto está disponível no GitHub e permite fácil navegação entre suas seções.
 
-## Funcionalidades  
-O portfólio inclui as seguintes funcionalidades:  
+---
 
-- **Página Inicial:** Uma página de boas-vindas com uma breve introdução do desenvolvedor.  
-- **Projetos:** Uma página que exibe os projetos do desenvolvedor com uma breve descrição e links para os repositórios.  
-- **Habilidades:** Uma página listando as habilidades técnicas do desenvolvedor.  
-- **Experiência:** Uma página que descreve a experiência profissional e qualificações do desenvolvedor.  
-- **Contato:** Uma página com informações de contato do desenvolvedor.  
+## 🔧 Como Usar?
 
-## Tecnologias Utilizadas  
-As seguintes tecnologias foram usadas para construir este portfólio:  
+Para visualizar o portfólio, basta **clonar** ou **baixar** o repositório e abrir o arquivo `index.html` em um navegador.
 
-- HTML  
-- CSS  
-- JavaScript
-  
-## Agradecimentos  
-Este portfólio foi inspirado na interface de linha de comando e tem como objetivo oferecer uma maneira única de apresentar as habilidades de um desenvolvedor de software. Agradecimentos especiais aos desenvolvedores que contribuíram para o projeto.
+```bash
+# Clone o repositório
+$ git clone https://github.com/lisharperyn/terminal-portfolio.git
 
-## Créditos
-Autora original:
-[   juli32bit](https://github.com/juli32bit)
+# Acesse a pasta
+$ cd terminal-portfolio
+
+# Abra no navegador
+$ open index.html  # macOS
+$ start index.html  # Windows
+$ xdg-open index.html  # Linux
+```
+
+---
+
+## 🎯 Funcionalidades
+
+O **terminal-portfolio** oferece as seguintes seções:
+
+- 🏠 **Página Inicial** – Introdução ao desenvolvedor.
+- 🛠️ **Projetos** – Lista de projetos com descrições e links.
+- 💻 **Habilidades** – Tecnologias e ferramentas utilizadas.
+- 📜 **Experiência** – Histórico profissional e qualificações.
+- 📩 **Contato** – Informações para conexão.
+
+A interface é inspirada em terminais clássicos, proporcionando uma experiência diferenciada.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Este projeto foi desenvolvido com:
+
+- **HTML** – Estruturação da interface.
+- **CSS** – Estilização e design responsivo.
+- **JavaScript** – Interatividade e funcionalidades dinâmicas.
+
+---
+
+## 🤝 Agradecimentos
+
+Inspirado no design de terminais, este projeto busca oferecer uma abordagem diferenciada para apresentação de portfólios. Agradecemos a todos que contribuíram para sua criação, em especial à autora original [juli32bit](https://github.com/juli32bit).
