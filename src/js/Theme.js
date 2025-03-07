@@ -31,7 +31,9 @@ export class Theme {
                 this.help(parts.slice(1).toString());
                 break;
             default:
-                let errMsg = `theme: '${parts[0]}' is not a valid argument.<br>type 'theme --help' for help.`;
+                let errMsg = `theme: '${parts[0]}' is not a valid argument.<br>type 'theme --help' for help. <br>
+                usage: theme --name [theme name]<br>
+                type 'theme --help' for more information.`;
                 new UniversalFunction().updateElement("div", "error", errMsg);
                 break;
         }
