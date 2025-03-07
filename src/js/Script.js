@@ -20,7 +20,7 @@ function addCommand() {
     <div>
       <span class="os">╭─ </span>
       <span class="user">guest@</span>
-      <span class="host">juli32bit-services.com</span>
+      <span class="host">lisharperyn-services.com</span>
       <span class="path">~</span>
     </div>
     <div>
