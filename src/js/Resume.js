@@ -63,14 +63,12 @@ export class Resume{
 
     getHeader(){
         return `<div class="header">
-        <h1>Julia Reis</h1><hr>
+        <h1>Steffani Amorim</h1><hr>
         <p>
-            <span><a href="tel:+55(61)981206088">+55(61)981206088</a> | </span>
-            <span><a href="mailto:juliamesquita267@gmail.com">juliamesquita267@gmail.com</a> | </span>
-            <span><a href="https://juli32bit.vercel.app/" target="_blank">CLI-Portfolio</a> | </span>
-            <span><a href="https://github.com/juli32bit" target="_blank">GitHub</a> | </span>
-            <span><a href="https://www.linkedin.com/in/juli32bit" target="_blank">LinkedIn</a> | </span>
-            <span><a href="https://leetcode.com/juli32bit" target="_blank">Leetcode</a></span>
+            <span><a href="tel:+55(61)992577391">+55(61)992577391</a> | </span>
+            <span><a href="mailto:lisharperyn77@outlook.com">lisharperyn77@outlook.com</a> | </span>
+            <span><a href="https://github.com/lisharperyn" target="_blank">GitHub</a> | </span>
+            <span><a href="https://www.linkedin.com/in/steffani-amorim-b541791b7/" target="_blank">LinkedIn</a> | </span>
         </p><hr>
         </div>`;
     }
@@ -81,13 +79,18 @@ export class Resume{
                 <h2>FORMAÇÃO</h2><hr>
             </div>
             <div class="education-item">
-                <strong>uniCEUB</strong>  <strong>Brasília, Brasil</strong>
-                <p>Análise e desenvolvimento de sistemas</p>  <p>October 2024–hoje</p>
-                <p>Especializando : Cibersec, DevOps, Web Dev</p>
+                <strong>Centro Universitário Internacional (UNINTER)</strong>  <strong>Brasília, Brasil</strong>
+                <p>Engenharia de Software</p>  <p>February 2022 – hoje</p>
+                <p>Especializando : Java Dev, Python Dev, Ciência de Dados e Inteligência Artificial</p>
+                <p>Trabalhando : Análise de Dados, Business Intelligence (Power BI) e Administração de Banco de Dados</p>
             </div>
             <div class="education-item">
-                <strong>Google Cybersecurity</strong> <strong>Online</strong>
-                <p>Certificado Foundations of Cybersecurity</p> <p>July 2024–hoje</p>
+                <strong>Desenvolvimento Java</strong> <strong>Fullstack</strong>
+                <p>Certificado SENAI</p> <p>April 2023 - August 2023</p>
+            </div>
+            <div class="education-item">
+                <strong>Python</strong> <strong>Essentials</strong>
+                <p>CISCO</p> <p>May 2023</p>
             </div>
         </div>`;
     }
@@ -99,17 +102,17 @@ export class Resume{
             </div>
             <div class="professional-experience-item">
                 <strong>
-                     Voluntariado - uniCEUB
-                    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7282835876009644033/" target="_blank">[LinkedIn]</a> 
-                    </strong> 
+                     Analista de Dados e BI- Ministério da Defesa - 2024 - hoje
+                    <a href="https://www.linkedin.com/in/steffani-amorim-b541791b7/details/experience/" target="_blank">[LinkedIn]</a> 
+                    <ul>
+                       <li>MANUTENÇÃO E ATUALIZAÇÃO DE PAINEL GERENCIAL ELABORADO EM FERRAMENTA DE BI (BUSINESS
+                        INTELLIGENCE), POWER BI</li>
+                       <li>ELABORAÇÃO DE GRÁFICOS, ESTATÍSTICAS E MEDIDAS EM LINGUAGEM DAX E M PARA COMPOR INSTRUMENTOS GERENCIAIS DE
+                       INFORMAÇÕES DO MINISTÉRIO DA DEFESA</li>
+                       <li>ALIMENTAÇÃO E ATUALIZAÇÃO DE INFORMAÇÕES NA BASE DE DADOS MYSQL</li>
+                    </ul>
+                </strong> 
                 <strong>Brasília, Brasil</strong>
-                <p><strong>Web Freelancer</strong> </p> <p>2024-hoje</p>
-                <ul>
-                    <li>Aula de informática para idosos</li>
-                    <li>Configuração de redes locais e residenciais</li>
-                    <li>Desenvolvimento de site para corretor imobiliário com otimização SEO</li>
-                    
-                </ul>
             </div>
         </div>`;
     }
@@ -121,22 +124,22 @@ export class Resume{
             </div>
             <div class="projects-item">
                 <strong>Terminal Portfolio | HTML, CSS, JavaScript | 
-                    <a href="https://github.com/juli32bit/Terminal-Portfolio" target="_blank">[GitHub]</a>
+                    <a href="https://github.com/lisharperyn/terminal-portfolio" target="_blank">[GitHub]</a>
                 </strong>
                 <ul>                  
-                    <li>Criei esse <strong> Portfolio inspirado em terminal </strong> para demonstrar habilidades com <strong>desenvolvimento web, backend e cibersegurança.</strong>.</li>
+                    <li><strong> Portfolio inspirado em terminal </strong> para demonstrar habilidades com <strong>desenvolvimento web e backend.</strong>.</li>
                     <li><strong>Armazenamento local</strong> para lista de comandos.</li> 
                     <li>Used <strong>Git e GitHub</strong> para controle de versão</li>
                     <li>Deploy no <strong>Vercel</strong>.</li>
                 </ul>
             </div>
             <div class="projects-item">
-                <strong>Página Bento | JavaScript, HTML, CSS | 
-                    <a href="https://juli32bit.vercel.app/" target="_blank">[GitHub]</a>
+                <strong>Página para download e upload de arquivos binários | Python, Flask, JavaScript, CSS, HTML, C, PowerShell | 
+                    <a href="https://github.com/lisharperyn/uploading-downloading-binary-files-from-db" target="_blank">[GitHub]</a>
                 </strong>
                 <ul>
-                    <li>Uma página de fácil acesso e que <strong>promove as redes do usuário</strong></li>
-                    <li>Demonstra as habilidades logo na <strong>primeira seção</strong></li>
+                    <li>Demonstrar habilidades em <strong>backend e integração com base de dados</strong></li>
+                    <li>Demonstrar capacidade de <strong>manipulação de binários</strong></li>
                 </ul>
             </div>
         </div>`;
