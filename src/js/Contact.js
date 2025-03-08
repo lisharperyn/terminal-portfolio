@@ -6,11 +6,9 @@ export class Contact{
                     <span class='keyword'>Telefone</span>
                     <span><a href="tel:+55(61)992577391">+55(61)992577391</a></span>
                     <span class='keyword'>E-mail</span>
-                    <span><a href="mailto:lisharperyn77@outlook.com">juliamesquita267@gmail.com</a></span>
+                    <span><a href="mailto:lisharperyn77@outlook.com">lisharperyn77@outlook.com</a></span>
                     <span class='keyword'>Whatsapp</span>
                     <span><a href="https://wa.me/+5561981206088" target="_blank">+5561981206088</a></span>
-                    <span class='keyword'>Telegram</span>
-                    <span><a href="https://t.me/juli32bit" target="_blank">@juli32bit</a></span>
                 </p>
         `;
     }
