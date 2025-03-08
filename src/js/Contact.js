@@ -8,7 +8,7 @@ export class Contact{
                     <span class='keyword'>E-mail</span>
                     <span><a href="mailto:lisharperyn77@outlook.com">lisharperyn77@outlook.com</a></span>
                     <span class='keyword'>Whatsapp</span>
-                    <span><a href="https://wa.me/+5561981206088" target="_blank">+5561981206088</a></span>
+                    <span><a href="https://wa.me/+5561992577391" target="_blank">+5561992577391</a></span>
                 </p>
         `;
     }
