@@ -49,4 +49,4 @@ Este projeto foi desenvolvido com:
 
 ## 🤝 Agradecimentos
 
-Inspirado no design de terminais, este projeto busca oferecer uma abordagem diferenciada para apresentação de portfólios. Agradeço a todos que contribuíram para sua criação, em especial à [juli32bit](https://github.com/juli32bit).
+Inspirado no design de terminais, este projeto busca oferecer uma abordagem diferenciada para apresentação de portfólios. Agradeço a todos que contribuíram para sua criação.
